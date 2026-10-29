@@ -12,22 +12,14 @@ I'm Dmitry, a data analytics student based in Minsk, Belarus.
 * Regression and time series, with pre-registered hypotheses and honest null results
 * Monte Carlo simulations of card and board games, for fun
 
-🛠 Tech stack
-
-**Languages & analysis:**
-
-`SQL` (PostgreSQL, window functions) · `Python` (pandas, polars, statsmodels, SciPy, Numba, NumPy) · `Jupyter`
-
-**Visualization & BI:**
-
-`Tableau` · `Power BI` · `matplotlib` · `seaborn`
-
-**Statistics:**
-
-`A/B testing` · `Regression` · `Time series` · `Bootstrap` · `Hypothesis testing`
-
-**Tools:**
-
+🛠 Tech stack<br>
+**Languages & analysis:**<br>
+`SQL` (PostgreSQL, window functions) · `Python` (pandas, polars, statsmodels, SciPy, Numba, NumPy) · `Jupyter`<br>
+**Visualization & BI:**<br>
+`Tableau` · `Power BI` · `matplotlib` · `seaborn`<br>
+**Statistics:**<br>
+`A/B testing` · `Regression` · `Time series` · `Bootstrap` · `Hypothesis testing`<br>
+**Tools:**<br>
 `Git` · `Docker` · `Excel`
 
 🌐 Languages
