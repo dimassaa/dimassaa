@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello there! 👋
+I'm Dmitry, a data analytics student based in Minsk, Belarus.
 
-<!--
-**dimassaa/dimassaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 3rd-year student at `BSUIR`
+* 🏛️ Faculty of Engineering and Economics ( `EEF` )
+* 💻 `Information Systems and Technologies in Economics`
+* 🚀 Looking for a `Data Analyst` internship
 
-Here are some ideas to get you started:
+🔎 What I work on
+* A/B testing, conversion funnels, cohort retention and LTV
+* SQL analytics on PostgreSQL
+* Regression and time series, with pre-registered hypotheses and honest null results
+* Monte Carlo simulations of card and board games, for fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech stack
+Languages & analysis:
+`SQL` (PostgreSQL, window functions) · `Python` (pandas, polars, statsmodels, SciPy, Numba, NumPy) · `Jupyter`
+Visualization & BI:
+`Tableau` · `Power BI` · `matplotlib` · `seaborn`
+Statistics:
+`A/B testing` · `Regression` · `Time series` · `Bootstrap` · `Hypothesis testing`
+Tools:
+`Git` · `Docker` · `Make` · `Excel`
+
+🌐 Languages
+
+* 🇷🇺 Russian: Native
+* 🇬🇧 English: `B2`
+
+📬 Contacts
+
+* [LinkedIn]([…](https://www.linkedin.com/in/дмитрий-харкевич-2544b03b7/?isSelfProfile=true)) · [Email](dimon.kharkevich@gmail.com) · [Telegram](@DimAss_123)
