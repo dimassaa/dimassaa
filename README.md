@@ -29,4 +29,4 @@ Tools:
 
 📬 Contacts
 
-* [LinkedIn]([…](https://www.linkedin.com/in/дмитрий-харкевич-2544b03b7/?isSelfProfile=true)) · [Email](dimon.kharkevich@gmail.com) · [Telegram](@DimAss_123)
+* [LinkedIn]((https://www.linkedin.com/in/дмитрий-харкевич-2544b03b7/?isSelfProfile=true)) · [Email](dimon.kharkevich@gmail.com) · [Telegram]([@DimAss_123](https://t.me/DimAss_123))
