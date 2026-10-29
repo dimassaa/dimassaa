@@ -13,6 +13,7 @@ I'm Dmitry, a data analytics student based in Minsk, Belarus.
 * Monte Carlo simulations of card and board games, for fun
 
 🛠 Tech stack
+
 **Languages & analysis**
 `SQL` (PostgreSQL, window functions) · `Python` (pandas, polars, statsmodels, SciPy, Numba, NumPy) · `Jupyter`
 **Visualization & BI**
