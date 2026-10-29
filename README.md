@@ -16,10 +16,13 @@ I'm Dmitry, a data analytics student based in Minsk, Belarus.
 
 **Languages & analysis**
 `SQL` (PostgreSQL, window functions) · `Python` (pandas, polars, statsmodels, SciPy, Numba, NumPy) · `Jupyter`
+
 **Visualization & BI**
 `Tableau` · `Power BI` · `matplotlib` · `seaborn`
+
 **Statistics**
 `A/B testing` · `Regression` · `Time series` · `Bootstrap` · `Hypothesis testing`
+
 **Tools**
 `Git` · `Docker` · `Make` · `Excel`
 
